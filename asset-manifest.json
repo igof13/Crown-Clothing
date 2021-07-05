@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Crown-Clothing/static/css/main.930b20d2.chunk.css",
+    "main.js": "/Crown-Clothing/static/js/main.c37bb9c7.chunk.js",
+    "main.js.map": "/Crown-Clothing/static/js/main.c37bb9c7.chunk.js.map",
+    "runtime~main.js": "/Crown-Clothing/static/js/runtime~main.1a6c0a33.js",
+    "runtime~main.js.map": "/Crown-Clothing/static/js/runtime~main.1a6c0a33.js.map",
+    "static/js/2.3ee5fded.chunk.js": "/Crown-Clothing/static/js/2.3ee5fded.chunk.js",
+    "static/js/2.3ee5fded.chunk.js.map": "/Crown-Clothing/static/js/2.3ee5fded.chunk.js.map",
+    "index.html": "/Crown-Clothing/index.html",
+    "precache-manifest.5b6518cf9542a54adb52e67a055009a6.js": "/Crown-Clothing/precache-manifest.5b6518cf9542a54adb52e67a055009a6.js",
+    "service-worker.js": "/Crown-Clothing/service-worker.js",
+    "static/css/main.930b20d2.chunk.css.map": "/Crown-Clothing/static/css/main.930b20d2.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/Crown-Clothing/static/media/crown.ed28accb.svg"
+  }
+}
